@@ -1,0 +1,14 @@
+# Para obtener más información sobre los archivos .editorconfig, vea https://aka.ms/editorconfigdocs
+root = false
+
+# All files
+[*]
+indent_style = space
+
+# Xml files
+
+# CA1707: Los identificadores no deben contener caracteres de subrayado
+dotnet_diagnostic.CA1707.severity = none
+
+[*.xml]
+indent_size = 2
