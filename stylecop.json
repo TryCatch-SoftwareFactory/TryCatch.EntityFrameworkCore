@@ -1,0 +1,14 @@
+{ 
+  "$schema": "https://raw.githubusercontent.com/DotNetAnalyzers/StyleCopAnalyzers/master/StyleCop.Analyzers/StyleCop.Analyzers/Settings/stylecop.schema.json",
+  "settings": {
+    "documentationRules": {
+      "companyName": "TryCatch Software Factory",
+      "copyrightText": "Copyright © {companyName} All rights reserved.\nLicensed under the {licenseName} license. See {licenseFile} file in the project root for full license information.",
+      "documentationCulture": "en-EN",
+      "variables": {
+        "licenseName": "MIT",
+        "licenseFile": "LICENSE.md"
+      }
+    }
+  }
+}
