@@ -2,6 +2,16 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>0.1.0</Version>
+    <Authors>Alfonso Segura</Authors>
+    <Company>TryCatch Software Factory</Company>
+    <Description>EntityFrameworkCore repositories</Description>
+    <Copyright>Copyright (c) 2021 - TryCatch Software Factory</Copyright>
+    <RepositoryUrl>https://github.com/TryCatch-SoftwareFactory/TryCatch.EntityFrameworkCore.git</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>.net-core repository-pattern EntityFrameworkCore</PackageTags>
+    <PackageProjectUrl>https://github.com/TryCatch-SoftwareFactory/TryCatch.EntityFrameworkCore</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
